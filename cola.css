@@ -1,0 +1,175 @@
+body{
+    background-color:white;
+    margin-left: 20px;
+    
+}
+
+.menu1{
+  border: 1px solid white;
+  
+  
+  margin: 0 auto;
+  
+  text-align: center;
+  
+  
+  
+
+}
+.menu{
+  border-bottom: 2px solid rgb(249, 105, 14);
+}
+.menu1 ul{
+  list-style-type: none;
+}
+.menu1 ul li{
+  display: inline-block;
+  justify-content: space-between;
+  font-size: 26px;
+  padding: 1%;
+  
+  
+}
+.menu1 ul li a{
+  text-decoration: none;
+  color: yellowgreen;
+
+}
+.menu1 ul li a:hover{
+  color: rgb(249, 105, 14);
+}
+#logo{
+  height: 100px;
+  float: left;
+  
+}
+
+.welcome{
+  text-align: center;
+  
+}
+.wel{
+  height: 80px;
+  background-color: rgb(41, 241, 195);
+  text-align: center;
+  padding-top: 10px;
+}
+h1{
+  font-size: 40px;
+  
+}
+.bach{
+  background-color:white;
+  color: rgb(7, 7, 7);
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  height: 1200px;
+  overflow: scroll;
+  
+     
+}
+
+
+p{
+  font-size: 18px;
+  margin-top: 30px;
+    
+}
+  
+
+    
+
+.check{
+  text-align: center;
+  height: 1200px;
+  width: 400px;
+  border: 3px solid rgb(41, 241, 195);
+  background-color: whitesmoke;
+  font-size: 19px;
+  font-weight: bold;
+
+  
+}
+h2{
+  color:grey;
+  font-size: 15px;
+  margin-top: 40px;
+
+}
+ 
+.hero {
+	background-color: #000000;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url(jus.jpg);
+  background-position: center;
+	background-size: cover;
+	color: #ffffff;
+	padding: 1em;
+    text-align: center;
+    height: 200px;
+  
+}
+.btn {
+  margin-top: 1000px;
+   
+  border: 3px solid whitesmoke;
+  padding: 10px;
+  color:wheat;
+  text-align: center;
+  transition-property: all;
+}
+.btn:hover {
+  background:  rgb(41, 241, 195);
+  color: black;
+  cursor: pointer; 
+  transition: background .5s; 
+}
+
+.sub{
+  background-color:rgb(41, 241, 195) ;
+  color: white;
+  padding: 10px;
+  border: 3px solid ;
+  
+  margin-top: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sub:hover{
+  background-color: rgba(78, 205, 196, 1) ;
+}
+
+#hello{
+  margin-bottom: 40px;
+}
+#jus{
+    height: 400px;
+    width: 300px;
+    border-radius: 15%;
+}
+input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+    
+}
+label{
+    margin-top: 19px;
+}
+h3{
+  margin-top: 10%;
+  color: whitesmoke;
+  font-size: 25px;
+  background-color:  rgb(41, 241, 195) ;
+  padding: 3%;
+  
+}
+h3:hover{
+  color: #000000;
+  background-color: rgb(46, 204, 113);
+}
+
+#para{
+  
+  font-size: 23px;
+  border-bottom: 2px solid black;
+  padding-bottom: 3%;
+}
